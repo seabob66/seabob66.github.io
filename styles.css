@@ -1,0 +1,82 @@
+body {
+    background-color: #bfe3ec; 
+    font-family: Arial, "Times New Roman", sans-serif;
+    margin: 0;
+    padding: 0 20px;
+    color: #000;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    margin: 20px 0;
+}
+
+h2{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+p{
+    font-size: 12.3px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+#paragraph2 {
+    width: 53%;
+    background-color: #ffffff;
+    border: 4px solid green;
+    padding: 25px;
+    margin: 10px 0;
+    line-height: 1.8;
+    text-align: left;
+}
+
+.blue {
+    background-color: #001a8f;
+    color: #ffffff;
+    padding: 15px;
+    border: 2px solid #000;
+}
+
+a {
+    color: blue;
+}
+
+ol li a {
+    color: #0000cc;
+}
+
+a[href*="w3schools"] {
+    color: red;
+}
+
+ol{
+    list-style-type: decimal-leading-zero;
+    margin-left: -15px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 15px;
+    background-color: #ffffff;
+}
+
+table,
+th,
+td {
+    border: 1px solid #000; 
+}
+
+th {
+    background-color: #e6e6e6;
+    padding: 8px;
+    text-align: center;
+}
+
+td {
+    background-color: #ffffff;
+    padding: 8px; 
+}
